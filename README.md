@@ -6,7 +6,7 @@ specialized in serving medium and large companies in the financial sector, a mea
 payment, banking, insurance and technology consultancies.
 
 
-## 🛠 Habilidades
+## 🛠 Tecnical
 Back End: C#, .NET Core 6.0/3.1, Micro‐Service, OpenAPI, Web API, WCF, Web Service, RabbitMQ,
 Kafka, MassTransit, MediatR, Entity Framework 6/Core, NodeJS, Dapper, Workflow Foundation,
 Crystal Report, WIA, VB.NET, VB 6.0, ASP Classic e Nhibernate.
